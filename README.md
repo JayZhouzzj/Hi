@@ -1,12 +1,12 @@
 # Hi
 ## How to run
 ### IntelliJ:
-Open project in intelliJ.
-Open src/Main.java in intelliJ.
+Open project in intelliJ.<br/>
+Open src/Main.java in intelliJ.<br/>
 Clilck the green run button beside main method. (Or use control + shift + R)
 ### Terminal:
-Navigate to src/
-run: javac Main.java
+Navigate to src/<br/>
+run: javac Main.java<br/>
 run: java Main
 
 ## How I got the ideas
