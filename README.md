@@ -9,5 +9,5 @@ Navigate to src/
 run: javac Main.java
 run: java Main
 
-## How I got the idea
-I got inspiration from the prompt .. I guess
+## How I got the ideas
+I'm learning hash maps and scanners recently, so I wrote a simple program using these things.
